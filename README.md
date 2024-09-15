@@ -1,2 +1,2 @@
-# HACKATHON-Milestone-1
-static resume
+# HACKATHON-1
+interactive resume builder
