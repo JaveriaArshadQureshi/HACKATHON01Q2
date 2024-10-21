@@ -1,5 +1,5 @@
 const toggleButton = document.getElementById("toggle-skills") as HTMLButtonElement;
-const skills = document.getElementById("skills") as HTMLInputElement;
+const skills = document.getElementById("skill") as HTMLInputElement;
 
 toggleButton.addEventListener('click',()=>{
     if(skills.style.display === 'none'){
